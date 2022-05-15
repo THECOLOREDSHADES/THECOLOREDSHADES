@@ -8,4 +8,4 @@
 THECOLOREDSHADES/THECOLOREDSHADES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-im a mistake to this world. untimed, untaught and usually offending someone with my lack of filter. im not here to suck up. im here to slap faces and call it WOKE
+im a mistake to this world. untimed, untaught and usually offending someone with my lack of filter. 
